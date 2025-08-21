@@ -39,7 +39,6 @@ Open the file ```ardupilot/Tools/autotest/pysim/vehicleinfo.py``` and add the fo
                                             "default_params/gazebo-iris3.parm"],
             },
             ###
-            },
 ```
 
 Save the file and exit.
