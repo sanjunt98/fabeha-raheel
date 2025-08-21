@@ -55,7 +55,7 @@ Add the same line at the end of the other new param files and modify the SYSID_T
 
 Launch the Gazebo world:
 ```bash
-roslaunch uav_swarms outdoor_world.launch
+roslaunch uav_swarms simulation.launch
 ```
 
 In another terminal, navigate into the ardupilot/ArduCopter directory:
