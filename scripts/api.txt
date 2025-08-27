@@ -1,1 +1,2 @@
 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
+export GROQ_API_KEY="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"
